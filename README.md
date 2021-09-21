@@ -3,7 +3,7 @@
 This library is an abstraction of [Notion API](https://developers.notion.com/) where you could interact with the API with just a few lines of code.
 
 <p align="center">
-  <img src="img/demo.gif" alt="API flowchart" width="600">
+  <img src="img/demo.gif" alt="Demo of the tool">
 </p>
 <br>
 
